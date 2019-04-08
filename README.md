@@ -20,6 +20,6 @@ Dataset info : https://www.kaggle.com/kumargh/pimaindiansdiabetescsv
 - [Installation](https://docs.anaconda.com/anaconda/install/windows/)
 
 **Jupyter Notebook**
-- [How to use]{https://www.codecademy.com/articles/how-to-use-jupyter-notebooks}
+- [How to use](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)
 
 **The model try to predict the risk of diabetes for an out of sample patien** 
